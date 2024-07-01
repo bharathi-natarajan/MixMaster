@@ -1,3 +1,3 @@
-#### uses thecocktaildb.com APIs
+## use thecocktaildb.com APIs
 
-## uses ReactQuery and ReactRouter largely
+## use ReactQuery and ReactRouter largely
